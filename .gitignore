@@ -1,0 +1,11 @@
+# Dependencies and temp files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Screenshots & Scratch
+*.png
+scratch/
+__pycache__/
+*.pyc
